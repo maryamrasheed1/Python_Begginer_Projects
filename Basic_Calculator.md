@@ -1,4 +1,4 @@
-'''Basic Python Calculator
+'''Basic Calculator
 A simple Python program that performs basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 
 How to Use:
