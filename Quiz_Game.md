@@ -7,7 +7,7 @@ Case-insensitive answer checking.
 Tracks the score of correct answers.
 Perfect for beginners to practice Python dictionaries, loops, and user input!
 
-#QUIZ_GAME_PROJECT
+# QUIZ_GAME_PROJECT
 questions = {
     "What is the capital of France?  ":" Paris",
     "What is 3+7=?  ":"10",
