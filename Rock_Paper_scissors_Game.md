@@ -1,17 +1,3 @@
-'''Rock, Paper, Scissors Game
-A simple Python game where the user plays Rock, Paper, Scissors against the computer. The computer randomly selects an option, and the user inputs their choice. The game determines the winner based on the rules:
-
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-Features:
-Validates user input.
-Displays game outcome (win, lose, or tie).
-Example Output:
-Enter rock, paper, or scissors: paper
-You chose: paper
-Computer chose: rock
-You win!'''
 # Rock_Paper_Scissors_Game_Project
 import random
 choices=["rock" , "paper" , "scissors"]
