@@ -1,21 +1,3 @@
-'''Basic Calculator
-A simple Python program that performs basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
-
-How to Use:
-Run the script.
-Choose an operation (1 for Add, 2 for Subtract, 3 for Multiply, 4 for Divide).
-Enter two numbers.
-Get the result.
-Select operation:
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-Enter choice (1/2/3/4): 1
-Enter first number: 10
-Enter second number: 5
-Result: 15.0
-Perfect for beginners to practice Python functions and conditionals!'''
 # Python_Basic_Calculator_Project
 def add(x,y):
     return x+y
